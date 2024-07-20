@@ -1,0 +1,16 @@
+lighthouseResult.categories.performance.score
+lighthouseResult.audits.first-contentful-paint.displayValue
+lighthouseResult.audits.first-meaningful-paint.displayValue
+lighthouseResult.audits.speed-index.displayValue
+lighthouseResult.audits.largest-contentful-paint.displayValue
+lighthouseResult.audits.interactive.displayValue
+lighthouseResult.audits.total-blocking-time.displayValue
+lighthouseResult.audits.cumulative-layout-shift.displayValue
+lighthouseResult.audits.first-cpu-idle.displayValue
+lighthouseResult.audits.estimated-input-latency.displayValue
+lighthouseResult.audits.server-response-time.displayValue
+lighthouseResult.audits.redirects.displayValue
+lighthouseResult.audits.mainthread-work-breakdown.displayValue
+lighthouseResult.audits.bootup-time.displayValue
+lighthouseResult.audits.network-requests.displayValue
+lighthouseResult.audits.network-rtt.displayValue
