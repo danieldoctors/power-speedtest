@@ -6,7 +6,8 @@ This PowerShell script helps you download Google Pagespeed stats in bulk from th
 Any digital marketer can use it without needing a full development environment, regardless of the operating system.
 This code creates a CVS file with all the netrics listed on 'metrics.txt' from the URL listed on the 'domains.txt'
 
-Please be mindful of excessive use, as the API has rate limits.
+**Please be mindful of excessive use, as the API has rate limits.**
+
 ===========================================
 
 Uso de PowerShell para extraer masivamente información de Pagespeed Insights
